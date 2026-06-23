@@ -1,0 +1,11 @@
+﻿Location,Department,Emp_Name,Short_Code,Emp_Code,Gender,Shift_Exception,Notes
+KAMLA NAGAR,FLOOR INCHARGE,Priya Kumari,PK,PK02,Female,,TG Ladies Section Incharge
+KAMLA NAGAR,FLOOR INCHARGE,Neha Joshi,NJ,NJ10,Female,,
+KAMLA NAGAR,SALES STAFF,Vikram Sharma,VS,VS01,Male,,
+KAMLA NAGAR,SALES STAFF,Arun Tiwari,AT,AT05,Male,,
+KAMLA NAGAR,SALES STAFF,Kavita Prasad,KP,KP08,Female,,
+KAMLA NAGAR,CASH COUNTER,Rajesh Mehra,RM,RM03,Male,,
+KAMLA NAGAR,ACCOUNT,Sunita Bhatia,SB,SB04,Female,,
+KAMLA NAGAR,MERCHANDISER,Deepa Rawat,DR,DR06,Female,,
+KAMLA NAGAR,WAREHOUSE,Mahesh Lal,ML,ML07,Male,Warehouse,
+KAMLA NAGAR,MDO,Suresh Nair,SN,SN09,Male,MDO,

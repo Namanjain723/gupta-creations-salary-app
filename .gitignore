@@ -1,0 +1,31 @@
+# Secrets — NEVER commit
+secrets/service_account.json
+secrets/config.toml
+.streamlit/secrets.toml
+
+# Local file-backed DB (demo / offline mode)
+local_db/*.csv
+local_db/*.json
+!local_db/.gitkeep
+
+# Generated output
+output/*.pdf
+output/*.xlsx
+!output/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+.idea/
+.vscode/

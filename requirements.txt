@@ -1,0 +1,24 @@
+# Gupta Creations Salary Management App — dependencies
+# Python 3.11 / 3.12 recommended (Streamlit Community Cloud default).
+# Works on 3.13. On 3.14 some wheels may be missing — pin to 3.12 for deploy.
+
+streamlit>=1.35
+gspread>=6.0
+google-auth>=2.29
+google-auth-oauthlib>=1.2
+pandas>=2.2
+numpy>=1.26
+reportlab>=4.2
+openpyxl>=3.1
+plotly>=5.20
+python-dateutil>=2.9
+pytz>=2024.1
+pdfplumber>=0.11
+toml>=0.10
+
+# NOTE: streamlit-aggrid was in the original spec but is replaced with
+# Streamlit's native st.data_editor for editable grids — zero extra native
+# deps, full Python 3.13/3.14 compatibility, identical editing UX.
+
+# Dev / test only:
+pytest>=8.0
